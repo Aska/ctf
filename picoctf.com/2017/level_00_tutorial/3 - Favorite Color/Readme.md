@@ -13,6 +13,6 @@
 
 
 ## Solution
-A quick glance a the file shows us a list of rgb color in the hexadecimal format. The best candidate is #C70002 since it is the only color composed of almost only red.
+A quick glance a the file shows us a list of rgb color in the hexadecimal format. The best candidate is `#C70002` since it is the only color composed of almost only red.
 
 And so, the answer is... `C70002`. I lost almost 20 minutes searching for the actual name of that color (either Guardsman Red, Free Speech Red or Venetian Red, depending on the website) but I guess the developper of the tutorials wanted to keep the thing simple.
