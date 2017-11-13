@@ -11,7 +11,7 @@
 
 >Please don't search by hand!
 
-## Write-up
+## Solution
 The solution is pretty straightforward using `grep`:
 
 
