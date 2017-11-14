@@ -29,6 +29,6 @@ function validate(pword){
 }
 ```
 And then sending the form with any password, the page answer :
-	client_side_is_the_dark_side0c97381c155aae62b9ce3c59845d6941
+>client_side_is_the_dark_side0c97381c155aae62b9ce3c59845d6941
 
 Thus, the solution to the master challenge is `client_side_is_the_dark_side0c97381c155aae62b9ce3c59845d6941`
