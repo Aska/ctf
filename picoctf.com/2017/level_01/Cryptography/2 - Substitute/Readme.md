@@ -1,11 +1,8 @@
 # PicoCTF 2017- Level 1 - Cryptography 2
 
 **Title:** Substitute
-
 **Category:** Cryptography
-
 **Points:** 40
-
 **Description:**
 
 >A wizard (he seemed kinda odd...) handed me [this](cipher.txt). Can you figure out what it says?
