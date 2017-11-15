@@ -46,7 +46,7 @@ print(buffering[:45]) # print only the 45 first char of the string we got
 ```
 
 Which gives us:  
-	$ ./least_significant_bit.py
-	flag{remember_kids_protect_your_headers_5e31}
+>$ ./least_significant_bit.py
+>flag{remember_kids_protect_your_headers_5e31}
 
 Thus the answer is `remember_kids_protect_your_headers_5e31`
