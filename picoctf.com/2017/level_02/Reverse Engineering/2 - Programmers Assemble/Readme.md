@@ -14,7 +14,7 @@
 
 ## Solution
 
-Since we are supposed to work on a x86 system, when opening the `assembly.s` file, we have:  
+First let's start by opening the `assembly.s` file:  
 ```stack
 .global main               |
                            |
@@ -40,13 +40,13 @@ end:                       |
                            |
 ```
 
-Given the content of `loop`, we want to solve the following equation in such a way that `%ebx` equal 1:  
->%ebx   = %ecx * %eax  
-
-But we know that in order to call `good`, we must have:  
+We know that in order to call `good`, we must have:  
 >%ebx = 0xf5f8  
 
-Now we can simplify:  
+Thus, given the content of `loop`, we want to solve the following equation:  
+>%ebx   = %ecx * %eax  
+
+We can simplify:  
 >0xf5f8 = 0x8 * %eax  
 >%eax = 0xf5f8 / 0x8  
 %eax  = 0x1ebf  
